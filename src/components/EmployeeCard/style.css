@@ -1,0 +1,27 @@
+.card {
+    background: #4aaaae;;
+    border-radius: 2px;
+    height: 215px;
+    margin: 1.5rem;
+    position: relative;
+    width: 330px;
+    box-shadow: 0 10px 14px #999999, 0 10px 14px #999999;
+    text-align: left;
+}
+
+.card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 20px;
+}
+
+.card > .content > ul {
+    list-style-type: none;
+}
+
+.card > .content > ul > li {
+    margin-top: 20px;
+}
+#remove {
+   margin-left: 125px;
+}

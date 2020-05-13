@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Joe Da Dpoe man",
+         "position": "dope dealer",
+         "salary": 100000
+    },
+    {
+        "id": 2,
+        "name": "Silky Johnson",
+        "position": "Playa Hater",
+        "salary": 250000
+    },
+    {
+        "id": 3,
+        "name": "John Edwards",
+        "position": "giant Douche",
+        "salary": "vagina slime"
+    },
+    {
+        "id": 4,
+        "name": "Matt Damon",
+        "position": "Matt Damon",
+        "salary": "Matt Damon"
+    },
+    {
+        "id": 5,
+        "name": "sloth",
+        "position": "goonie",
+        "salary": "One eyed willys treasure"
+    },
+    {
+        "id": 6,
+        "name": "Dr Evil",
+        "position": "Supervillain",
+        "salary": "one MILLION dollars...."
+    }
+]
