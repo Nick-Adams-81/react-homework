@@ -34,5 +34,17 @@
         "name": "Dr Evil",
         "position": "Supervillain",
         "salary": "one MILLION dollars...."
+    },
+    {
+        "id": 7,
+        "name": "Austin Powers",
+        "position": "international man of mystery",
+        "salary": "shaggin"
+    },
+    {
+        "id": 8,
+        "name": "Bruce Wayne",
+        "position": "Batman",
+        "salary": 10000000000000
     }
 ]
