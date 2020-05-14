@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import EmployeeCard from "./components/EmployeeCard";
+import Footer from "./components/Footer";
 import Title from "./components/Title";
 import Wrapper from "./components/Wrapper";
-import employees from "./employee.json"
+import employees from "./employee.json";
 import './App.css';
 
 class App extends Component {
@@ -30,6 +31,8 @@ removeEmployee = id => {
           salary={employee.salary}
           />
         ))}
+        <Footer />
+
       </Wrapper>
     );
   }
